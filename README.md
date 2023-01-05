@@ -17,8 +17,8 @@
   ### Para entrar contato 👇
  
 <div> 
-  <a href = "#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "leonardodarosadornelles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardo-dornelles-165187240/edit/forms/skills/new/?profileFormEntryPoint=GUIDANCE_CARD" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/LeonardoDaRosaDornelles/LeonardoDaRosaDornelles/blob/output/github-contribution-grid-snake.svg)
 
